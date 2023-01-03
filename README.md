@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on : Android projects, Flutter projects
 - 🌱 I’m currently learning : Latest in Android development ( keeping up with the latest in Android )
 - 💬 Ask me about : Anything in Android or Flutter, always love new challenges
-- 📫 How to reach me: mafdym25@gmail.com 
+- 📫 How to reach me: mafdym25@gmail.com , https://www.linkedin.com/in/mafdy-magdy/
 - ⚡ Fun fact: I love playing the piano and producing music/sound projects in general, AI
 
 <!--
