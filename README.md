@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on : Android projects, Flutter projects
+- 🌱 I’m currently learning : Latest in Android development ( keeping up with the latest in Android )
+- 💬 Ask me about : Anything in Android or Flutter, always love new challenges
+- 📫 How to reach me: mafdym25@gmail.com 
+- ⚡ Fun fact: I love playing the piano and producing music/sound projects in general, AI
+
 <!--
 **Maf-Dy/Maf-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
